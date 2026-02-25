@@ -5,6 +5,7 @@
             <class name="com.orangehrm.tests.DummyClass"> </class>
             <class name="com.orangehrm.tests.LoginPageTest"> </class>
             <class name="com.orangehrm.tests.HomePageTest"> </class>
+            <class name="com.orangehrm.tests.ApiTest"> </class>
 
 
         </classes>

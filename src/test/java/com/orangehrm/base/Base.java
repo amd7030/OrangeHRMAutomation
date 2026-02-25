@@ -1,5 +1,6 @@
 package com.orangehrm.base;
 import com.orangehrm.actiondriver.ActionDriver;
+import com.orangehrm.utilities.ExtentManager;
 import com.orangehrm.utilities.LoggerManager;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.TimeoutException;
@@ -13,6 +14,7 @@ import org.testng.annotations.*;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.lang.reflect.Method;
 import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
@@ -20,21 +22,33 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import org.apache.logging.log4j.Logger;
 import java.util.concurrent.locks.LockSupport;
-import org.apache.logging.log4j.LogManager;
+
+import org.testng.ITestResult;
+import org.testng.annotations.AfterMethod;
 
 public  class Base {
 
     private static final org.slf4j.Logger log = LoggerFactory.getLogger(Base.class);
+
+    /* 'prop' is a Properties object used to store configuration values
+     (like URLs, credentials, or environment-specific settings)
+    that can be loaded from a file and accessed throughout the framework.*/
+
     protected static Properties prop;
-    //protected  static WebDriver driver;
-    //public  static ActionDriver actionDriver;
 
-    public static ThreadLocal<WebDriver>driver=new ThreadLocal<>();
-    public static ThreadLocal<ActionDriver>actionDriver =new ThreadLocal<>();
+    /*driver' is a WebDriver instance, the main interface for controlling
+    the browser in Selenium automation. It allows you to open pages,
+     interact with elements, and perform browser actions.*/
+
+    protected static WebDriver driver;
+
+    public static ActionDriver actionDriver;
+
+    //public static ThreadLocal<WebDriver>driver=new ThreadLocal<>();
+    //public static ThreadLocal<ActionDriver>actionDriver =new ThreadLocal<>();
 
 
-
-    public static final Logger logger= (Logger) LoggerManager.getLogger(Base.class);
+    public static final Logger logger = (Logger) LoggerManager.getLogger(Base.class);
 
     @BeforeSuite
 
@@ -46,18 +60,20 @@ public  class Base {
         logger.info("config.properties file loaded");
 
     }
-//setup created
+
+    //setup created
     @BeforeMethod
-    public void setup() throws IOException {
+    public void setup(Method method) throws IOException {
+        ExtentManager.startTest(method.getName());
+
         System.out.println("Setup started");
         LaunchBrowser();
         ConfigureBrowser();
 
-        //added after driver is null issue in log files after execution of test successfully..
-        //test passed but in logs "driver is null"
+        //added after driver is null issue in log files after execution of test successfully.
+        //test passed but in logs "driver is null
         actionDriver = new ActionDriver(driver); // driver is guaranteed non-null here
         logger.info("WebDriver initialized and browser maximized");
-
 
         int waitTime = Integer.parseInt(prop.getProperty("ExplicitWait"));
         actionDriver = new ActionDriver(driver);
@@ -68,10 +84,9 @@ public  class Base {
         logger.debug("This is debug message");
         logger.fatal("This is fatal message");
         logger.warn("This is warning message");
-
     }
-    protected ActionDriver actionDriver;
 
+    //Method or function to launch the browser
     private void LaunchBrowser() {
 
         String browser = prop.getProperty("browser");
@@ -84,7 +99,6 @@ public  class Base {
             options.addArguments("--remote-allow-origins=*");
             options.addArguments("--disable-notifications");
             options.addArguments("--start-maximized");
-
 
 
             // IMPORTANT FIX after time-consuming issue
@@ -101,9 +115,8 @@ public  class Base {
 
             options.setExperimentalOption("prefs", prefs);
             driver = new ChromeDriver(options);
-        logger.info("ChromeDriver Instance is created");
-        }
-        else if (browser.equalsIgnoreCase("firefox")) {
+            logger.info("ChromeDriver Instance is created" + Thread.currentThread().threadId());
+        } else if (browser.equalsIgnoreCase("firefox")) {
             driver = new FirefoxDriver();
         } else if (browser.equalsIgnoreCase("edge")) {
             driver = new EdgeDriver();
@@ -113,6 +126,8 @@ public  class Base {
 
     }
 
+    //Method or function to Configure the browser
+
     public void ConfigureBrowser() {
         //Configure browser setting like implicit wait, maximize the browser or navigate to URL, etc
 
@@ -121,7 +136,6 @@ public  class Base {
 
         //added after some error--
         driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(120));
-
 
 
         //maximize
@@ -139,8 +153,7 @@ public  class Base {
 
     }
 
-    @AfterMethod
-    public void tearDown() {
+    /*public void tearDown() {
         if (driver != null) {
             try {
                 driver.quit();
@@ -148,38 +161,71 @@ public  class Base {
                 System.out.println("unable to quit the message " + this.getClass().getSimpleName());
             }
         }
+    }*/
+
+    //updater version of tearDown to crete ExtentReport
+
+    @AfterMethod
+    public void tearDown(ITestResult result) {
+        String testName = result.getName();
+
+        // Check test result status
+        if (result.getStatus() == ITestResult.FAILURE) {
+
+            // Log failure in Extent Report
+
+            ExtentManager.logFailure(driver, "Test Failed: " + result.getName(), "Test End: " + testName + " - ❌ Test Failed");
+
+        } else if (result.getStatus() == ITestResult.SUCCESS) {
+
+            ExtentManager.logStep("Test Passed: " + result.getName());
+
+        } else if (result.getStatus() == ITestResult.SKIP) {
+
+            ExtentManager.logSkip("Test Skipped: " + result.getName());
+        }
+        ExtentManager.endTest();
+
+        // Close browser safely
+        if (driver != null) {
+            try {
+                driver.quit();
+            } catch (Exception e) {
+                System.out.println("Unable to quit browser: "
+                        + this.getClass().getSimpleName());
+            }
+
+        }
     }
+
     //Driver getter method
-    public  WebDriver getDriver() {
-        if(driver.get()==null){
+    public  static WebDriver getDriver() {
+        if (driver == null) {
             System.out.println("WebDriver is not initialized");
             throw new IllegalArgumentException("webDriver is not initialized");
         }
-        return driver.get();
-    }
-
-    //getter method fro ActionDriver
-    public static ActionDriver getActionDriver(){
-        if (actionDriver.get()==null){
-            System.out.println("ActionDriver isn't initialized ");
-        }
-        return actionDriver.get();
+        return driver;
     }
 
     //getter method fo prop
 
-    public static Properties getprop(){
+    public static Properties getprop() {
         return prop;
 
     }
     //Driver setter method
 
-       public void setDriver(WebDriver driver){
-        this.driver=driver;
-}
-
-    public void staticwait (int seconds){
-            LockSupport.parkNanos(TimeUnit.SECONDS.toNanos(seconds));
-        }
+    public void setDriver(WebDriver driver) {
+        this.driver = driver;
     }
 
+    public void staticwait(int seconds) {
+        LockSupport.parkNanos(TimeUnit.SECONDS.toNanos(seconds));
+    }
+
+    @AfterSuite
+    public void tearDownReport() {
+        ExtentManager.endReport();
+    }
+
+}

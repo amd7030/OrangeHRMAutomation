@@ -36,4 +36,9 @@ public class HomePage {
         actionDriver.click(logout);
 
     }
+
+    public void clickAdminTab() {
+        actionDriver.click(adminTab);
+    }
+
 }

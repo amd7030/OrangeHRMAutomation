@@ -27,10 +27,13 @@ public class ActionDriver {
         String elementDescription=getElementDDescription(by);
 
         try {
+            applyBoder(by,"green");
             waitforelementClickable(by);
             driver.findElement(by).click();
             logger.info("clicked an element->>>>"+elementDescription);
         } catch (Exception e) {
+            applyBoder(by,"red");
+
             System.out.println("Unable to click element" + e.getMessage());
         }
     }
@@ -39,6 +42,8 @@ public class ActionDriver {
     public void enterText(By by, String value) {
         try {
             waitforElementToBeVisible(by);
+            applyBoder(by,"green");
+
 
             //driver.findElement(by).clear();
             //driver.findElement(by).sendKeys(value);
@@ -48,6 +53,8 @@ public class ActionDriver {
             element.sendKeys(value);
             logger.info("Entered Test:" +getElementDDescription(by)+" "  +value);
         } catch (Exception e) {
+            applyBoder(by,"red");
+
             logger.error("Unable to enter the text into field" + e.getMessage());
         }
     }
@@ -68,12 +75,15 @@ public class ActionDriver {
     public boolean compareText(By by, String expectedText) {
         try {
             waitforElementToBeVisible(by);
+            applyBoder(by,"green");
+
             String actualText = driver.findElement(by).getText();
             if (expectedText.equals(actualText)) {
                 logger.info("Text are matching" + actualText + "equals" + expectedText);
                 return true;
 
             } else {
+                applyBoder(by,"red");
                 logger.error("Text aren't matching" + actualText + "Not equals" + expectedText);
                 return false;
             }
@@ -87,10 +97,13 @@ public class ActionDriver {
     public boolean isDisplayedd(By by) {
         try {
             waitforElementToBeVisible(by);
+            applyBoder(by,"green");
+
             logger.info("Element is diplayed"+getElementDDescription(by));
             return driver.findElement(by).isDisplayed();
 
         } catch (Exception e) {
+            applyBoder(by,"red");
             logger.error("Element is not displayed :" + e.getMessage());
             return false;
 
@@ -108,7 +121,6 @@ public class ActionDriver {
             System.out.println("PAge does not load within " + timeOutInSec + "seconds.Exception:" + e.getMessage());
         }
     }
-
     //scroll to an element
     public void scrollToElement(By by) {
         try {
@@ -134,19 +146,19 @@ public class ActionDriver {
         try {
             wait.until(ExpectedConditions.visibilityOfElementLocated(by));
         } catch (Exception e) {
-            System.out.println("Element is not visble:" + e.getMessage());
+            System.out.println("Element is not visible:" + e.getMessage());
         }
     }
 
     //method to get the description of element using by locator
     public String getElementDDescription(By locator) {
-        if (driver != null)
+        if (driver==null)
             return "driver is null";
         if (locator == null)
             return "locator is null";
         //find the element using locator
 
-        //note-: ifneed add try-catch block
+        //note-: if need add try-catch block
         WebElement element = driver.findElement(locator);
         {
 
@@ -186,6 +198,21 @@ public class ActionDriver {
 
         }
         return value.substring(0,MaxLenght)+"....";
+    }
+    //utility method to Border an element
+    public void applyBoder(By by,String color){
+        try {
+            WebElement element=driver.findElement(by);
+             //Apply the color
+            String script="argument[0].style.border=''3px solid"+color+" ";
+
+            JavascriptExecutor js=(JavascriptExecutor) driver;
+            js.executeScript(script,element);
+            logger.info("Applied the border  color"+color +"to element "+getElementDDescription(by));
+        } catch (Exception e) {
+            logger.warn("Failed to applied the border to an element "+getElementDDescription(by));
+        }
+
     }
 
 }

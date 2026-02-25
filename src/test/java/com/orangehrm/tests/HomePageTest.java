@@ -18,6 +18,7 @@ public class HomePageTest extends Base {
 
     }
     //test case to verify company logo is present on the home page...
+    //TC_homepage_001
     @Test
     public void verifyOrangeHrmLogo(){
         loginpage.login("Admin","admin123");

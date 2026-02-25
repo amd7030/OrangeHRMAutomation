@@ -17,7 +17,7 @@ public class LoginPage {
         this.actionDriver= new ActionDriver(driver);
 
     }
-    //method to perform login
+    //method to perform login & logout successfully
     public void login(String userName, String Password){
         actionDriver.enterText(usenamefield, userName);
         actionDriver.enterText(password,Password);
@@ -35,7 +35,7 @@ public class LoginPage {
         return "";
     }
     // verify if error message is correct or not
-    public boolean verfyerrormessage(String expectedError){
+    public boolean verfyErrormessage(String expectedError){
         return actionDriver.compareText(errorMessage,expectedError);
 
     }

@@ -1,0 +1,1360 @@
+2026-02-13 19:46:41 [main] INFO  Base - config.properties file loaded
+2026-02-13 19:46:48 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-13 19:46:58 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-13 19:46:58 [main] TRACE Base - This is trace MESSAGE
+2026-02-13 19:46:58 [main] DEBUG Base - This is debug message
+2026-02-13 19:46:58 [main] WARN  Base - This is warning message
+2026-02-13 19:47:09 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-13 19:47:21 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-13 19:47:21 [main] TRACE Base - This is trace MESSAGE
+2026-02-13 19:47:21 [main] DEBUG Base - This is debug message
+2026-02-13 19:47:21 [main] WARN  Base - This is warning message
+2026-02-14 11:51:15 [main] INFO  Base - config.properties file loaded
+2026-02-14 11:51:33 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 11:51:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 11:51:44 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 11:51:44 [main] DEBUG Base - This is debug message
+2026-02-14 11:51:44 [main] WARN  Base - This is warning message
+2026-02-14 11:51:45 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 11:51:45 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 11:51:45 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 11:51:47 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 11:51:48 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 11:51:57 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 11:51:57 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 11:51:57 [main] DEBUG Base - This is debug message
+2026-02-14 11:51:57 [main] WARN  Base - This is warning message
+2026-02-14 11:51:58 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 11:51:58 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 11:52:00 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 11:52:01 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 11:52:01 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 11:52:01 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:04:17 [main] INFO  Base - config.properties file loaded
+2026-02-14 12:04:18 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:04:24 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:04:29 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:04:29 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:04:29 [main] DEBUG Base - This is debug message
+2026-02-14 12:04:29 [main] WARN  Base - This is warning message
+2026-02-14 12:04:29 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 12:04:30 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 12:04:31 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:04:32 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 12:04:33 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:04:38 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:04:43 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:04:43 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:04:43 [main] DEBUG Base - This is debug message
+2026-02-14 12:04:43 [main] WARN  Base - This is warning message
+2026-02-14 12:04:43 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 12:04:44 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 12:04:44 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:04:46 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 12:04:46 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:04:47 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:07:29 [main] INFO  Base - config.properties file loaded
+2026-02-14 12:07:30 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:07:37 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:07:42 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:07:42 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:07:42 [main] DEBUG Base - This is debug message
+2026-02-14 12:07:42 [main] WARN  Base - This is warning message
+2026-02-14 12:07:43 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 12:07:43 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 12:07:43 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:07:45 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 12:07:46 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:07:51 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:07:56 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:07:56 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:07:56 [main] DEBUG Base - This is debug message
+2026-02-14 12:07:56 [main] WARN  Base - This is warning message
+2026-02-14 12:07:57 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 12:07:57 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 12:07:57 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:08:00 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 12:08:00 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:08:00 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:22:57 [main] INFO  Base - config.properties file loaded
+2026-02-14 12:22:58 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:23:03 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:23:08 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:23:08 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:23:08 [main] DEBUG Base - This is debug message
+2026-02-14 12:23:08 [main] WARN  Base - This is warning message
+2026-02-14 12:23:08 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 12:23:09 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 12:23:09 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:23:11 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 12:23:12 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:23:18 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:23:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:23:23 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:23:23 [main] DEBUG Base - This is debug message
+2026-02-14 12:23:23 [main] WARN  Base - This is warning message
+2026-02-14 12:23:23 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 12:23:23 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 12:23:24 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:23:26 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 12:23:26 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:23:26 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:31:19 [main] INFO  Base - config.properties file loaded
+2026-02-14 12:31:20 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:31:28 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:31:33 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:31:33 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:31:33 [main] DEBUG Base - This is debug message
+2026-02-14 12:31:33 [main] WARN  Base - This is warning message
+2026-02-14 12:31:33 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 12:31:33 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 12:31:34 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:31:36 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 12:31:37 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:31:42 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:31:47 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:31:47 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:31:47 [main] DEBUG Base - This is debug message
+2026-02-14 12:31:47 [main] WARN  Base - This is warning message
+2026-02-14 12:31:47 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 12:31:48 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 12:31:48 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:31:52 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 12:31:52 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:31:53 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:34:39 [main] INFO  Base - config.properties file loaded
+2026-02-14 12:34:41 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:34:51 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:34:56 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:34:56 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:34:56 [main] DEBUG Base - This is debug message
+2026-02-14 12:34:56 [main] WARN  Base - This is warning message
+2026-02-14 12:34:56 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 12:34:57 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 12:34:57 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:34:59 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 12:35:00 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:35:06 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:35:11 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:35:11 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:35:11 [main] DEBUG Base - This is debug message
+2026-02-14 12:35:11 [main] WARN  Base - This is warning message
+2026-02-14 12:35:11 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 12:35:12 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 12:35:12 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:35:14 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 12:35:14 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:35:15 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:58:33 [main] INFO  Base - config.properties file loaded
+2026-02-14 12:58:51 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:58:59 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:04 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:04 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:59:04 [main] DEBUG Base - This is debug message
+2026-02-14 12:59:04 [main] WARN  Base - This is warning message
+2026-02-14 12:59:05 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:59:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:28 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:28 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:59:28 [main] DEBUG Base - This is debug message
+2026-02-14 12:59:28 [main] WARN  Base - This is warning message
+2026-02-14 12:59:29 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 12:59:29 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 12:59:29 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:59:31 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 12:59:32 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:59:37 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:42 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:42 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:59:42 [main] DEBUG Base - This is debug message
+2026-02-14 12:59:42 [main] WARN  Base - This is warning message
+2026-02-14 12:59:42 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 12:59:42 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 12:59:42 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:59:45 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 12:59:45 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:59:45 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 12:59:48 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 12:59:54 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:59 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 12:59:59 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 12:59:59 [main] DEBUG Base - This is debug message
+2026-02-14 12:59:59 [main] WARN  Base - This is warning message
+2026-02-14 12:59:59 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 12:59:59 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 12:59:59 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 13:00:01 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 13:13:54 [main] INFO  Base - config.properties file loaded
+2026-02-14 13:13:55 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 13:13:59 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:04 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:04 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 13:14:04 [main] DEBUG Base - This is debug message
+2026-02-14 13:14:04 [main] WARN  Base - This is warning message
+2026-02-14 13:14:05 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 13:14:10 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:15 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:15 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 13:14:15 [main] DEBUG Base - This is debug message
+2026-02-14 13:14:15 [main] WARN  Base - This is warning message
+2026-02-14 13:14:15 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 13:14:15 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 13:14:15 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 13:14:17 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 13:14:18 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 13:14:22 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:27 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:27 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 13:14:27 [main] DEBUG Base - This is debug message
+2026-02-14 13:14:27 [main] WARN  Base - This is warning message
+2026-02-14 13:14:27 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 13:14:27 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 13:14:28 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 13:14:30 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 13:14:30 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 13:14:31 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 13:14:34 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 13:14:38 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:43 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 13:14:43 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 13:14:43 [main] DEBUG Base - This is debug message
+2026-02-14 13:14:43 [main] WARN  Base - This is warning message
+2026-02-14 13:14:43 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 13:14:43 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 13:14:43 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 13:14:46 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 19:26:44 [main] INFO  Base - config.properties file loaded
+2026-02-14 19:26:46 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:26:47 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:26:49 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:27:17 [main] INFO  Base - config.properties file loaded
+2026-02-14 19:27:22 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:29:45 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:29:50 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:29:50 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 19:29:50 [main] DEBUG Base - This is debug message
+2026-02-14 19:29:50 [main] WARN  Base - This is warning message
+2026-02-14 19:29:51 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:29:56 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:30:01 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:30:01 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 19:30:01 [main] DEBUG Base - This is debug message
+2026-02-14 19:30:01 [main] WARN  Base - This is warning message
+2026-02-14 19:30:01 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 19:30:02 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 19:30:02 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:30:45 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:30:51 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:30:56 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:30:56 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 19:30:56 [main] DEBUG Base - This is debug message
+2026-02-14 19:30:56 [main] WARN  Base - This is warning message
+2026-02-14 19:30:56 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 19:30:56 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 19:30:59 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:31:00 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 19:31:00 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:31:01 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:31:05 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:31:09 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:31:14 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:31:14 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 19:31:14 [main] DEBUG Base - This is debug message
+2026-02-14 19:31:14 [main] WARN  Base - This is warning message
+2026-02-14 19:31:15 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 19:31:15 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 19:31:15 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:31:18 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 19:38:22 [main] INFO  Base - config.properties file loaded
+2026-02-14 19:38:24 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:38:29 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:38:34 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:38:34 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 19:38:34 [main] DEBUG Base - This is debug message
+2026-02-14 19:38:34 [main] WARN  Base - This is warning message
+2026-02-14 19:38:34 [main] INFO  ActionDriver - Entered Test:driver is null amol
+2026-02-14 19:38:34 [main] INFO  ActionDriver - Entered Test:driver is null 112121
+2026-02-14 19:38:34 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:38:36 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-14 19:38:38 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-14 19:38:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:38:49 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-14 19:38:49 [main] TRACE Base - This is trace MESSAGE
+2026-02-14 19:38:49 [main] DEBUG Base - This is debug message
+2026-02-14 19:38:49 [main] WARN  Base - This is warning message
+2026-02-14 19:38:50 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-14 19:38:50 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-14 19:38:50 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:38:56 [main] INFO  ActionDriver - Element is diplayeddriver is null
+2026-02-14 19:38:56 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-14 19:38:57 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:24:30 [main] INFO  Base - config.properties file loaded
+2026-02-18 13:24:40 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:24:45 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:24:50 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:24:50 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:24:50 [main] DEBUG Base - This is debug message
+2026-02-18 13:24:50 [main] WARN  Base - This is warning message
+2026-02-18 13:24:51 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-18 13:24:51 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-18 13:24:51 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:04 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:05 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:25:10 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:25:15 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:25:15 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:25:15 [main] DEBUG Base - This is debug message
+2026-02-18 13:25:15 [main] WARN  Base - This is warning message
+2026-02-18 13:25:16 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-18 13:25:16 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-18 13:25:16 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:21 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:22 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:25:27 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:25:32 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:25:32 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:25:32 [main] DEBUG Base - This is debug message
+2026-02-18 13:25:32 [main] WARN  Base - This is warning message
+2026-02-18 13:25:32 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-18 13:25:32 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-18 13:25:32 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:36 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:39 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:25:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:25:49 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:25:49 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:25:49 [main] DEBUG Base - This is debug message
+2026-02-18 13:25:49 [main] WARN  Base - This is warning message
+2026-02-18 13:25:49 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-18 13:25:49 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-18 13:25:49 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:55 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:25:56 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:26:00 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:26:05 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:26:05 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:26:05 [main] DEBUG Base - This is debug message
+2026-02-18 13:26:05 [main] WARN  Base - This is warning message
+2026-02-18 13:26:05 [main] INFO  ActionDriver - Entered Test:driver is null Admin
+2026-02-18 13:26:05 [main] INFO  ActionDriver - Entered Test:driver is null admin123
+2026-02-18 13:26:07 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:26:11 [main] INFO  ActionDriver - clicked an element->>>>driver is null
+2026-02-18 13:30:53 [main] INFO  Base - config.properties file loaded
+2026-02-18 13:30:54 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:30:58 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:31:03 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:31:03 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:31:03 [main] DEBUG Base - This is debug message
+2026-02-18 13:31:03 [main] WARN  Base - This is warning message
+2026-02-18 13:31:04 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-18 13:31:04 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-18 13:31:04 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-18 13:31:18 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Admin
+2026-02-18 13:31:19 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:31:24 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:31:29 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:31:29 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:31:29 [main] DEBUG Base - This is debug message
+2026-02-18 13:31:29 [main] WARN  Base - This is warning message
+2026-02-18 13:31:30 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-18 13:31:30 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-18 13:31:30 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-18 13:31:35 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Buzz
+2026-02-18 13:31:36 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:31:40 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:31:45 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:31:45 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:31:45 [main] DEBUG Base - This is debug message
+2026-02-18 13:31:45 [main] WARN  Base - This is warning message
+2026-02-18 13:31:46 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-18 13:31:46 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-18 13:31:46 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-18 13:31:52 [main] INFO  ActionDriver - clicked an element->>>>Element with text:PIM
+2026-02-18 13:31:52 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:31:56 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:32:01 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:32:01 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:32:01 [main] DEBUG Base - This is debug message
+2026-02-18 13:32:01 [main] WARN  Base - This is warning message
+2026-02-18 13:32:02 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-18 13:32:02 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-18 13:32:02 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-18 13:32:09 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Recruitment
+2026-02-18 13:32:10 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-18 13:32:14 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:32:19 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-18 13:32:19 [main] TRACE Base - This is trace MESSAGE
+2026-02-18 13:32:19 [main] DEBUG Base - This is debug message
+2026-02-18 13:32:19 [main] WARN  Base - This is warning message
+2026-02-18 13:32:19 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-18 13:32:19 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-18 13:32:20 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-18 13:32:25 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Time
+2026-02-19 22:45:24 [main] INFO  Base - config.properties file loaded
+2026-02-19 22:45:34 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-19 22:45:39 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:45:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:45:44 [main] TRACE Base - This is trace MESSAGE
+2026-02-19 22:45:44 [main] DEBUG Base - This is debug message
+2026-02-19 22:45:44 [main] WARN  Base - This is warning message
+2026-02-19 22:45:44 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-19 22:45:45 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-19 22:45:46 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-19 22:45:49 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Admin
+2026-02-19 22:45:50 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-19 22:45:57 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:46:02 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:46:02 [main] TRACE Base - This is trace MESSAGE
+2026-02-19 22:46:02 [main] DEBUG Base - This is debug message
+2026-02-19 22:46:02 [main] WARN  Base - This is warning message
+2026-02-19 22:46:02 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-19 22:46:02 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-19 22:46:03 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-19 22:46:16 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-19 22:46:45 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:46:50 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:46:50 [main] TRACE Base - This is trace MESSAGE
+2026-02-19 22:46:50 [main] DEBUG Base - This is debug message
+2026-02-19 22:46:50 [main] WARN  Base - This is warning message
+2026-02-19 22:46:51 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-19 22:46:51 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-19 22:46:51 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-19 22:46:56 [main] INFO  ActionDriver - clicked an element->>>>Element with text:PIM
+2026-02-19 22:46:58 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-19 22:47:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:47:28 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:47:28 [main] TRACE Base - This is trace MESSAGE
+2026-02-19 22:47:28 [main] DEBUG Base - This is debug message
+2026-02-19 22:47:28 [main] WARN  Base - This is warning message
+2026-02-19 22:47:28 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-19 22:47:29 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-19 22:47:29 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-19 22:47:42 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-19 22:47:52 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:47:57 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:47:57 [main] TRACE Base - This is trace MESSAGE
+2026-02-19 22:47:57 [main] DEBUG Base - This is debug message
+2026-02-19 22:47:57 [main] WARN  Base - This is warning message
+2026-02-19 22:47:58 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-19 22:47:58 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-19 22:48:00 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-19 22:53:50 [main] INFO  Base - config.properties file loaded
+2026-02-19 22:53:51 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-19 22:53:53 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:53:58 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-19 22:53:58 [main] TRACE Base - This is trace MESSAGE
+2026-02-19 22:53:58 [main] DEBUG Base - This is debug message
+2026-02-19 22:53:58 [main] WARN  Base - This is warning message
+2026-02-20 15:20:51 [main] INFO  Base - config.properties file loaded
+2026-02-20 15:20:59 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-20 15:21:07 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:21:12 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:21:12 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 15:21:12 [main] DEBUG Base - This is debug message
+2026-02-20 15:21:12 [main] WARN  Base - This is warning message
+2026-02-20 15:21:13 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-20 15:21:18 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:21:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:21:23 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 15:21:23 [main] DEBUG Base - This is debug message
+2026-02-20 15:21:23 [main] WARN  Base - This is warning message
+2026-02-20 15:21:24 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-20 15:21:24 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-20 15:21:25 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 15:21:30 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-20 15:21:31 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-20 15:21:37 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:21:42 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:21:42 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 15:21:42 [main] DEBUG Base - This is debug message
+2026-02-20 15:21:42 [main] WARN  Base - This is warning message
+2026-02-20 15:21:42 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 15:21:42 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 15:21:46 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 15:21:47 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 15:21:47 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda jhhj
+2026-02-20 15:21:48 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 15:21:51 [main] INFO  Base - ChromeDriver Instance is created
+2026-02-20 15:21:56 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:22:01 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:22:01 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 15:22:01 [main] DEBUG Base - This is debug message
+2026-02-20 15:22:01 [main] WARN  Base - This is warning message
+2026-02-20 15:22:01 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 15:22:02 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 15:22:02 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 15:22:08 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-20 15:48:02 [main] INFO  Base - config.properties file loaded
+2026-02-20 15:48:04 [TestNG-test-orangeHrmTest-3] INFO  Base - ChromeDriver Instance is created35
+2026-02-20 15:48:04 [TestNG-test-orangeHrmTest-2] INFO  Base - ChromeDriver Instance is created34
+2026-02-20 15:48:04 [TestNG-test-orangeHrmTest-1] INFO  Base - ChromeDriver Instance is created33
+2026-02-20 15:48:13 [TestNG-test-orangeHrmTest-3] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:48:18 [TestNG-test-orangeHrmTest-3] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:48:18 [TestNG-test-orangeHrmTest-3] TRACE Base - This is trace MESSAGE
+2026-02-20 15:48:18 [TestNG-test-orangeHrmTest-3] DEBUG Base - This is debug message
+2026-02-20 15:48:18 [TestNG-test-orangeHrmTest-3] WARN  Base - This is warning message
+2026-02-20 15:48:22 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:48:27 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:48:27 [TestNG-test-orangeHrmTest-2] TRACE Base - This is trace MESSAGE
+2026-02-20 15:48:27 [TestNG-test-orangeHrmTest-2] DEBUG Base - This is debug message
+2026-02-20 15:48:27 [TestNG-test-orangeHrmTest-2] WARN  Base - This is warning message
+2026-02-20 15:48:35 [TestNG-test-orangeHrmTest-1] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:48:40 [TestNG-test-orangeHrmTest-1] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:48:40 [TestNG-test-orangeHrmTest-1] TRACE Base - This is trace MESSAGE
+2026-02-20 15:48:40 [TestNG-test-orangeHrmTest-1] DEBUG Base - This is debug message
+2026-02-20 15:48:40 [TestNG-test-orangeHrmTest-1] WARN  Base - This is warning message
+2026-02-20 15:48:45 [TestNG-test-orangeHrmTest-2] INFO  Base - ChromeDriver Instance is created34
+2026-02-20 15:48:59 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:49:04 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 15:49:04 [TestNG-test-orangeHrmTest-2] TRACE Base - This is trace MESSAGE
+2026-02-20 15:49:04 [TestNG-test-orangeHrmTest-2] DEBUG Base - This is debug message
+2026-02-20 15:49:04 [TestNG-test-orangeHrmTest-2] WARN  Base - This is warning message
+2026-02-20 15:49:07 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 15:49:07 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 15:49:07 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 15:49:50 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 15:49:50 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - clicked an element->>>>Element with text:manda user
+2026-02-20 15:49:50 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 17:19:36 [main] INFO  Base - config.properties file loaded
+2026-02-20 17:19:40 [TestNG-test-orangeHrmTest-1] INFO  Base - ChromeDriver Instance is created35
+2026-02-20 17:19:40 [TestNG-test-orangeHrmTest-2] INFO  Base - ChromeDriver Instance is created36
+2026-02-20 17:19:40 [TestNG-test-orangeHrmTest-3] INFO  Base - ChromeDriver Instance is created37
+2026-02-20 17:19:47 [TestNG-test-orangeHrmTest-3] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:19:49 [TestNG-test-orangeHrmTest-1] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:19:51 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:19:52 [TestNG-test-orangeHrmTest-3] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:19:52 [TestNG-test-orangeHrmTest-3] TRACE Base - This is trace MESSAGE
+2026-02-20 17:19:52 [TestNG-test-orangeHrmTest-3] DEBUG Base - This is debug message
+2026-02-20 17:19:52 [TestNG-test-orangeHrmTest-3] WARN  Base - This is warning message
+2026-02-20 17:19:54 [TestNG-test-orangeHrmTest-3] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:19:54 [TestNG-test-orangeHrmTest-1] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:19:54 [TestNG-test-orangeHrmTest-1] TRACE Base - This is trace MESSAGE
+2026-02-20 17:19:54 [TestNG-test-orangeHrmTest-1] DEBUG Base - This is debug message
+2026-02-20 17:19:54 [TestNG-test-orangeHrmTest-1] WARN  Base - This is warning message
+2026-02-20 17:19:56 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:19:56 [TestNG-test-orangeHrmTest-2] TRACE Base - This is trace MESSAGE
+2026-02-20 17:19:56 [TestNG-test-orangeHrmTest-2] DEBUG Base - This is debug message
+2026-02-20 17:19:56 [TestNG-test-orangeHrmTest-2] WARN  Base - This is warning message
+2026-02-20 17:19:57 [TestNG-test-orangeHrmTest-2] INFO  Base - ChromeDriver Instance is created36
+2026-02-20 17:20:02 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:20:07 [TestNG-test-orangeHrmTest-2] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:20:07 [TestNG-test-orangeHrmTest-2] TRACE Base - This is trace MESSAGE
+2026-02-20 17:20:07 [TestNG-test-orangeHrmTest-2] DEBUG Base - This is debug message
+2026-02-20 17:20:07 [TestNG-test-orangeHrmTest-2] WARN  Base - This is warning message
+2026-02-20 17:20:08 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:20:08 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 17:20:08 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:20:11 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 17:20:11 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - clicked an element->>>>Element with text:Test 80 user
+2026-02-20 17:20:12 [TestNG-test-orangeHrmTest-2] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 17:20:39 [main] INFO  Base - config.properties file loaded
+2026-02-20 17:20:40 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:20:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:20:49 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:20:49 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:20:49 [main] DEBUG Base - This is debug message
+2026-02-20 17:20:49 [main] WARN  Base - This is warning message
+2026-02-20 17:20:50 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:20:50 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 17:20:50 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:20:53 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-20 17:21:23 [main] INFO  Base - config.properties file loaded
+2026-02-20 17:21:24 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:21:29 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:21:34 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:21:34 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:21:34 [main] DEBUG Base - This is debug message
+2026-02-20 17:21:34 [main] WARN  Base - This is warning message
+2026-02-20 17:21:34 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:21:35 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 17:21:37 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:21:38 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-20 17:22:24 [main] INFO  Base - config.properties file loaded
+2026-02-20 17:22:25 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:22:29 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:22:34 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:22:34 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:22:34 [main] DEBUG Base - This is debug message
+2026-02-20 17:22:34 [main] WARN  Base - This is warning message
+2026-02-20 17:22:35 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:22:40 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:22:45 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:22:45 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:22:45 [main] DEBUG Base - This is debug message
+2026-02-20 17:22:45 [main] WARN  Base - This is warning message
+2026-02-20 17:22:45 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-20 17:22:45 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-20 17:22:46 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:22:48 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-20 17:22:49 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:22:53 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:22:58 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:22:58 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:22:58 [main] DEBUG Base - This is debug message
+2026-02-20 17:22:58 [main] WARN  Base - This is warning message
+2026-02-20 17:22:58 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:22:59 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 17:22:59 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:23:01 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 17:23:02 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Test 80 user
+2026-02-20 17:23:02 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 17:23:06 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:23:12 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:23:17 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:23:17 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:23:17 [main] DEBUG Base - This is debug message
+2026-02-20 17:23:17 [main] WARN  Base - This is warning message
+2026-02-20 17:23:17 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:23:17 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 17:23:17 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:23:20 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-20 17:23:29 [main] INFO  Base - config.properties file loaded
+2026-02-20 17:23:30 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:23:35 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:23:40 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:23:40 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:23:40 [main] DEBUG Base - This is debug message
+2026-02-20 17:23:40 [main] WARN  Base - This is warning message
+2026-02-20 17:23:42 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:23:46 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:23:51 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:23:51 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:23:51 [main] DEBUG Base - This is debug message
+2026-02-20 17:23:51 [main] WARN  Base - This is warning message
+2026-02-20 17:23:51 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-20 17:23:52 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-20 17:23:52 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:23:54 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-20 17:23:55 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:24:00 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:24:05 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:24:05 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:24:05 [main] DEBUG Base - This is debug message
+2026-02-20 17:24:05 [main] WARN  Base - This is warning message
+2026-02-20 17:24:05 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:24:05 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 17:24:07 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:24:08 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 17:24:08 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Test 80 user
+2026-02-20 17:24:08 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 17:24:11 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 17:24:12 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:24:17 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 17:24:17 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 17:24:17 [main] DEBUG Base - This is debug message
+2026-02-20 17:24:17 [main] WARN  Base - This is warning message
+2026-02-20 17:24:18 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 17:24:18 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 17:24:20 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 17:24:21 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-20 17:24:55 [main] INFO  Base - config.properties file loaded
+2026-02-20 17:29:48 [main] INFO  Base - config.properties file loaded
+2026-02-20 19:46:51 [main] INFO  Base - config.properties file loaded
+2026-02-20 19:46:54 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 19:49:21 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:49:26 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:49:26 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 19:49:26 [main] DEBUG Base - This is debug message
+2026-02-20 19:49:26 [main] WARN  Base - This is warning message
+2026-02-20 19:49:27 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 19:49:45 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:49:50 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:49:50 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 19:49:50 [main] DEBUG Base - This is debug message
+2026-02-20 19:49:50 [main] WARN  Base - This is warning message
+2026-02-20 19:49:50 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-20 19:49:51 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-20 19:49:57 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 19:49:59 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-20 19:50:00 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 19:50:31 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:50:36 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:50:36 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 19:50:36 [main] DEBUG Base - This is debug message
+2026-02-20 19:50:36 [main] WARN  Base - This is warning message
+2026-02-20 19:50:37 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 19:50:37 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 19:50:38 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 19:50:40 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 19:50:40 [main] INFO  ActionDriver - clicked an element->>>>Element with text:fNameTest lNameTest
+2026-02-20 19:50:41 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 19:50:44 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 19:51:05 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:51:10 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 19:51:10 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 19:51:10 [main] DEBUG Base - This is debug message
+2026-02-20 19:51:10 [main] WARN  Base - This is warning message
+2026-02-20 19:51:11 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 19:51:11 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 19:51:11 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 19:51:14 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-20 20:19:27 [main] INFO  Base - config.properties file loaded
+2026-02-20 20:19:29 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:19:37 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:19:42 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:19:42 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:19:42 [main] DEBUG Base - This is debug message
+2026-02-20 20:19:42 [main] WARN  Base - This is warning message
+2026-02-20 20:19:43 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:19:49 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:19:54 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:19:54 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:19:54 [main] DEBUG Base - This is debug message
+2026-02-20 20:19:54 [main] WARN  Base - This is warning message
+2026-02-20 20:19:54 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-20 20:19:54 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-20 20:19:55 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 20:20:03 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-20 20:20:04 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:20:10 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:20:15 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:20:15 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:20:15 [main] DEBUG Base - This is debug message
+2026-02-20 20:20:15 [main] WARN  Base - This is warning message
+2026-02-20 20:20:15 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 20:20:16 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 20:20:16 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 20:20:23 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 20:20:23 [main] INFO  ActionDriver - clicked an element->>>>Element with text:fNameTest lNameTest
+2026-02-20 20:20:23 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 20:20:26 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:20:31 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:20:36 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:20:36 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:20:36 [main] DEBUG Base - This is debug message
+2026-02-20 20:20:36 [main] WARN  Base - This is warning message
+2026-02-20 20:20:37 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 20:20:37 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 20:20:37 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 20:20:41 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-20 20:36:11 [main] INFO  Base - config.properties file loaded
+2026-02-20 20:36:12 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:36:18 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:36:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:36:23 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:36:23 [main] DEBUG Base - This is debug message
+2026-02-20 20:36:23 [main] WARN  Base - This is warning message
+2026-02-20 20:36:24 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:36:29 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:36:34 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:36:34 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:36:34 [main] DEBUG Base - This is debug message
+2026-02-20 20:36:34 [main] WARN  Base - This is warning message
+2026-02-20 20:36:35 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-20 20:36:35 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-20 20:36:35 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 20:36:38 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-20 20:36:39 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:36:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:36:49 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:36:49 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:36:49 [main] DEBUG Base - This is debug message
+2026-02-20 20:36:49 [main] WARN  Base - This is warning message
+2026-02-20 20:36:50 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 20:36:50 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 20:36:50 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 20:36:54 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-20 20:36:55 [main] INFO  ActionDriver - clicked an element->>>>Element with text:fNameTest lNameTest
+2026-02-20 20:36:55 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-20 20:36:58 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-20 20:37:03 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:37:08 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-20 20:37:08 [main] TRACE Base - This is trace MESSAGE
+2026-02-20 20:37:08 [main] DEBUG Base - This is debug message
+2026-02-20 20:37:08 [main] WARN  Base - This is warning message
+2026-02-20 20:37:08 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-20 20:37:08 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-20 20:37:09 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-20 20:37:12 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-21 12:45:19 [main] INFO  Base - config.properties file loaded
+2026-02-21 12:45:24 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-21 12:45:33 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:45:38 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:45:38 [main] TRACE Base - This is trace MESSAGE
+2026-02-21 12:45:38 [main] DEBUG Base - This is debug message
+2026-02-21 12:45:38 [main] WARN  Base - This is warning message
+2026-02-21 12:45:40 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-21 12:45:47 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:45:52 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:45:52 [main] TRACE Base - This is trace MESSAGE
+2026-02-21 12:45:52 [main] DEBUG Base - This is debug message
+2026-02-21 12:45:52 [main] WARN  Base - This is warning message
+2026-02-21 12:45:52 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-21 12:45:52 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-21 12:45:54 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-21 12:45:55 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-21 12:45:56 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-21 12:46:01 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:46:06 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:46:06 [main] TRACE Base - This is trace MESSAGE
+2026-02-21 12:46:06 [main] DEBUG Base - This is debug message
+2026-02-21 12:46:06 [main] WARN  Base - This is warning message
+2026-02-21 12:46:06 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-21 12:46:07 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-21 12:46:08 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-21 12:46:09 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-21 12:46:10 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Ashok Reddy
+2026-02-21 12:46:10 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-21 12:46:13 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-21 12:46:19 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:46:24 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-21 12:46:24 [main] TRACE Base - This is trace MESSAGE
+2026-02-21 12:46:24 [main] DEBUG Base - This is debug message
+2026-02-21 12:46:24 [main] WARN  Base - This is warning message
+2026-02-21 12:46:24 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-21 12:46:24 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-21 12:46:27 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-21 12:46:28 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-22 09:51:38 [main] INFO  Base - config.properties file loaded
+2026-02-22 09:51:41 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 09:51:47 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:51:53 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:51:53 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 09:51:53 [main] DEBUG Base - This is debug message
+2026-02-22 09:51:53 [main] WARN  Base - This is warning message
+2026-02-22 09:51:55 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 09:51:59 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:52:04 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:52:04 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 09:52:04 [main] DEBUG Base - This is debug message
+2026-02-22 09:52:04 [main] WARN  Base - This is warning message
+2026-02-22 09:52:05 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-22 09:52:05 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-22 09:52:07 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-22 09:52:08 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-22 09:52:09 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 09:52:14 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:52:19 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:52:19 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 09:52:19 [main] DEBUG Base - This is debug message
+2026-02-22 09:52:19 [main] WARN  Base - This is warning message
+2026-02-22 09:52:19 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-22 09:52:19 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-22 09:52:20 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-22 09:52:22 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-22 09:52:22 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda user
+2026-02-22 09:52:23 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-22 09:52:26 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 09:52:30 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:52:35 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 09:52:35 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 09:52:35 [main] DEBUG Base - This is debug message
+2026-02-22 09:52:35 [main] WARN  Base - This is warning message
+2026-02-22 09:52:35 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-22 09:52:36 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-22 09:52:36 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-22 09:52:39 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-22 18:45:19 [main] INFO  Base - config.properties file loaded
+2026-02-22 18:45:25 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 18:45:31 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:45:36 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:45:36 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 18:45:36 [main] DEBUG Base - This is debug message
+2026-02-22 18:45:36 [main] WARN  Base - This is warning message
+2026-02-22 18:45:39 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 18:45:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:45:49 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:45:49 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 18:45:49 [main] DEBUG Base - This is debug message
+2026-02-22 18:45:49 [main] WARN  Base - This is warning message
+2026-02-22 18:45:50 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-22 18:45:50 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-22 18:45:51 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-22 18:45:52 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-22 18:45:54 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 18:46:00 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:46:05 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:46:05 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 18:46:05 [main] DEBUG Base - This is debug message
+2026-02-22 18:46:05 [main] WARN  Base - This is warning message
+2026-02-22 18:46:05 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-22 18:46:06 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-22 18:46:06 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-22 18:46:08 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-22 18:46:08 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Test Bogan-Stanton
+2026-02-22 18:46:09 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-22 18:46:12 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 18:46:18 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:46:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-22 18:46:23 [main] TRACE Base - This is trace MESSAGE
+2026-02-22 18:46:23 [main] DEBUG Base - This is debug message
+2026-02-22 18:46:23 [main] WARN  Base - This is warning message
+2026-02-22 18:46:23 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-22 18:46:24 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-22 18:46:24 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-22 18:46:26 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-22 20:32:00 [main] INFO  Base - config.properties file loaded
+2026-02-22 20:32:02 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 20:32:03 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 20:32:04 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-22 20:33:28 [main] INFO  Base - config.properties file loaded
+2026-02-22 20:35:40 [main] INFO  Base - config.properties file loaded
+2026-02-22 20:39:35 [main] INFO  Base - config.properties file loaded
+2026-02-24 17:20:43 [main] INFO  Base - config.properties file loaded
+2026-02-24 17:20:58 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-24 17:21:04 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:21:09 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:21:09 [main] TRACE Base - This is trace MESSAGE
+2026-02-24 17:21:09 [main] DEBUG Base - This is debug message
+2026-02-24 17:21:09 [main] WARN  Base - This is warning message
+2026-02-24 17:21:13 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-24 17:21:19 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:21:24 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:21:24 [main] TRACE Base - This is trace MESSAGE
+2026-02-24 17:21:24 [main] DEBUG Base - This is debug message
+2026-02-24 17:21:24 [main] WARN  Base - This is warning message
+2026-02-24 17:21:24 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-24 17:21:24 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-24 17:21:27 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-24 17:21:29 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-24 17:21:30 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-24 17:21:37 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:21:42 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:21:42 [main] TRACE Base - This is trace MESSAGE
+2026-02-24 17:21:42 [main] DEBUG Base - This is debug message
+2026-02-24 17:21:42 [main] WARN  Base - This is warning message
+2026-02-24 17:21:42 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-24 17:21:43 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-24 17:21:53 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-24 17:21:57 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-24 17:21:57 [main] INFO  ActionDriver - clicked an element->>>>Element with text:hola test
+2026-02-24 17:21:58 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-24 17:22:01 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-24 17:22:10 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:22:15 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-24 17:22:15 [main] TRACE Base - This is trace MESSAGE
+2026-02-24 17:22:15 [main] DEBUG Base - This is debug message
+2026-02-24 17:22:15 [main] WARN  Base - This is warning message
+2026-02-24 17:22:15 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-24 17:22:15 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-24 17:22:16 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-24 17:22:26 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-25 09:23:51 [main] INFO  Base - config.properties file loaded
+2026-02-25 09:23:55 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:24:02 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:07 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:07 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:24:07 [main] DEBUG Base - This is debug message
+2026-02-25 09:24:07 [main] WARN  Base - This is warning message
+2026-02-25 09:24:09 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:24:14 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:19 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:19 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:24:19 [main] DEBUG Base - This is debug message
+2026-02-25 09:24:19 [main] WARN  Base - This is warning message
+2026-02-25 09:24:19 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-25 09:24:20 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-25 09:24:20 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:24:22 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 09:24:23 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:24:28 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:33 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:33 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:24:33 [main] DEBUG Base - This is debug message
+2026-02-25 09:24:33 [main] WARN  Base - This is warning message
+2026-02-25 09:24:33 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 09:24:34 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 09:24:34 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:24:37 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 09:24:37 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Allan Silva
+2026-02-25 09:24:38 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 09:24:41 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:24:46 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:51 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:24:51 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:24:51 [main] DEBUG Base - This is debug message
+2026-02-25 09:24:51 [main] WARN  Base - This is warning message
+2026-02-25 09:24:51 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 09:24:51 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 09:24:51 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:24:54 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-25 09:32:53 [main] INFO  Base - config.properties file loaded
+2026-02-25 09:32:55 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:33:01 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:06 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:06 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:33:06 [main] DEBUG Base - This is debug message
+2026-02-25 09:33:06 [main] WARN  Base - This is warning message
+2026-02-25 09:33:08 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:33:12 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:17 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:17 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:33:17 [main] DEBUG Base - This is debug message
+2026-02-25 09:33:17 [main] WARN  Base - This is warning message
+2026-02-25 09:33:18 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 09:33:18 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-25 09:33:18 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 09:33:18 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-25 09:33:19 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 09:33:19 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:33:22 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 09:33:22 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 09:33:23 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:33:27 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:32 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:32 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:33:32 [main] DEBUG Base - This is debug message
+2026-02-25 09:33:32 [main] WARN  Base - This is warning message
+2026-02-25 09:33:32 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 09:33:33 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 09:33:33 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 09:33:33 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 09:33:34 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 09:33:34 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:33:38 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 09:33:38 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 09:33:38 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:manda user
+2026-02-25 09:33:38 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda user
+2026-02-25 09:33:38 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 09:33:39 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 09:33:42 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:33:46 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:51 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:33:51 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:33:51 [main] DEBUG Base - This is debug message
+2026-02-25 09:33:51 [main] WARN  Base - This is warning message
+2026-02-25 09:33:51 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 09:33:52 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 09:33:52 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 09:33:52 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 09:33:52 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 09:33:53 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:33:55 [main] WARN  ActionDriver - Failed to applied the border to an element  
+2026-02-25 09:33:55 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-25 09:40:21 [main] INFO  Base - config.properties file loaded
+2026-02-25 09:40:23 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:40:33 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:40:38 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:40:38 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:40:38 [main] DEBUG Base - This is debug message
+2026-02-25 09:40:38 [main] WARN  Base - This is warning message
+2026-02-25 09:40:40 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:40:47 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:40:52 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:40:52 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:40:52 [main] DEBUG Base - This is debug message
+2026-02-25 09:40:52 [main] WARN  Base - This is warning message
+2026-02-25 09:40:52 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 09:40:53 [main] INFO  ActionDriver - Entered Test:Element with namee: username amol
+2026-02-25 09:40:53 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 09:40:53 [main] INFO  ActionDriver - Entered Test:Element with namee: password 112121
+2026-02-25 09:40:53 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 09:40:54 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:41:02 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 09:41:02 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 09:41:03 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:41:10 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:41:15 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:41:15 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:41:15 [main] DEBUG Base - This is debug message
+2026-02-25 09:41:15 [main] WARN  Base - This is warning message
+2026-02-25 09:41:15 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 09:41:16 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 09:41:16 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 09:41:16 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 09:41:17 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 09:41:17 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:41:21 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 09:41:22 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 09:41:22 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:manda user
+2026-02-25 09:41:22 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda user
+2026-02-25 09:41:23 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 09:41:23 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 09:41:27 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 09:41:31 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:41:36 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 09:41:36 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 09:41:36 [main] DEBUG Base - This is debug message
+2026-02-25 09:41:36 [main] WARN  Base - This is warning message
+2026-02-25 09:41:36 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 09:41:36 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 09:41:37 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 09:41:37 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 09:41:37 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 09:41:37 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 09:41:43 [main] WARN  ActionDriver - Failed to applied the border to an element  
+2026-02-25 09:41:43 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-25 11:27:57 [main] INFO  Base - config.properties file loaded
+2026-02-25 11:28:37 [main] INFO  Base - config.properties file loaded
+2026-02-25 11:36:25 [main] INFO  Base - config.properties file loaded
+2026-02-25 11:41:05 [main] INFO  Base - config.properties file loaded
+2026-02-25 11:48:21 [main] INFO  Base - config.properties file loaded
+2026-02-25 11:54:37 [main] INFO  Base - config.properties file loaded
+2026-02-25 11:57:02 [main] INFO  Base - config.properties file loaded
+2026-02-25 11:59:00 [main] INFO  Base - config.properties file loaded
+2026-02-25 12:08:35 [main] INFO  Base - config.properties file loaded
+2026-02-25 12:08:40 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 12:08:47 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:08:52 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:08:52 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 12:08:52 [main] DEBUG Base - This is debug message
+2026-02-25 12:08:52 [main] WARN  Base - This is warning message
+2026-02-25 12:08:52 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 12:08:52 [main] INFO  ActionDriver - Entered Test:Element with namee: username Aadmin2468
+2026-02-25 12:08:52 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 12:08:53 [main] INFO  ActionDriver - Entered Test:Element with namee: password 121212
+2026-02-25 12:08:53 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 12:08:53 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 12:09:01 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 12:09:01 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 12:09:03 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 12:09:10 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:09:15 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:09:15 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 12:09:15 [main] DEBUG Base - This is debug message
+2026-02-25 12:09:15 [main] WARN  Base - This is warning message
+2026-02-25 12:09:15 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 12:09:15 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 12:09:15 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 12:09:16 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 12:09:16 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 12:09:16 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 12:09:23 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 12:09:23 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 12:09:24 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:manda user
+2026-02-25 12:09:24 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda user
+2026-02-25 12:09:24 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 12:09:24 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 12:24:54 [main] INFO  Base - config.properties file loaded
+2026-02-25 12:24:56 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 12:25:03 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:25:08 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:25:08 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 12:25:08 [main] DEBUG Base - This is debug message
+2026-02-25 12:25:08 [main] WARN  Base - This is warning message
+2026-02-25 12:25:08 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 12:25:08 [main] INFO  ActionDriver - Entered Test:Element with namee: username Aadmin2468
+2026-02-25 12:25:08 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 12:25:09 [main] INFO  ActionDriver - Entered Test:Element with namee: password 121212
+2026-02-25 12:25:09 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 12:25:09 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 12:25:11 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 12:25:11 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 12:25:13 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 12:25:18 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:25:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:25:23 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 12:25:23 [main] DEBUG Base - This is debug message
+2026-02-25 12:25:23 [main] WARN  Base - This is warning message
+2026-02-25 12:25:23 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 12:25:23 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 12:25:23 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 12:25:24 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 12:25:24 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 12:25:26 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 12:25:27 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 12:25:27 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 12:25:27 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:MoSalah Elmorsir
+2026-02-25 12:25:27 [main] INFO  ActionDriver - clicked an element->>>>Element with text:MoSalah Elmorsir
+2026-02-25 12:25:28 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 12:25:28 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 12:29:21 [main] INFO  Base - config.properties file loaded
+2026-02-25 12:29:23 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 12:29:32 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:29:37 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:29:37 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 12:29:37 [main] DEBUG Base - This is debug message
+2026-02-25 12:29:37 [main] WARN  Base - This is warning message
+2026-02-25 12:29:37 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 12:29:37 [main] INFO  ActionDriver - Entered Test:Element with namee: username Aadmin2468
+2026-02-25 12:29:37 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 12:29:38 [main] INFO  ActionDriver - Entered Test:Element with namee: password 121212
+2026-02-25 12:29:38 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 12:29:38 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 12:29:45 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 12:29:45 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 12:29:46 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 12:29:55 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:30:00 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 12:30:00 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 12:30:00 [main] DEBUG Base - This is debug message
+2026-02-25 12:30:00 [main] WARN  Base - This is warning message
+2026-02-25 12:30:00 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 12:30:00 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 12:30:00 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 12:30:00 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 12:30:01 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 12:30:01 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 12:30:06 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 12:30:06 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 12:30:06 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:MoSalah Elmorsir
+2026-02-25 12:30:07 [main] INFO  ActionDriver - clicked an element->>>>Element with text:MoSalah Elmorsir
+2026-02-25 12:30:07 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 12:30:07 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 12:30:07 [main] INFO  LoginPageTest - Logged out successfully
+2026-02-25 15:29:14 [main] INFO  Base - config.properties file loaded
+2026-02-25 15:29:18 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 15:29:26 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 15:29:31 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 15:29:31 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 15:29:31 [main] DEBUG Base - This is debug message
+2026-02-25 15:29:31 [main] WARN  Base - This is warning message
+2026-02-25 15:29:31 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 15:29:31 [main] INFO  ActionDriver - Entered Test:Element with namee: username Aadmin2468
+2026-02-25 15:29:31 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 15:29:32 [main] INFO  ActionDriver - Entered Test:Element with namee: password 121212
+2026-02-25 15:29:32 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 15:29:32 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 15:29:49 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 15:29:50 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 15:29:51 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 15:30:01 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 15:30:06 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 15:30:06 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 15:30:06 [main] DEBUG Base - This is debug message
+2026-02-25 15:30:06 [main] WARN  Base - This is warning message
+2026-02-25 15:30:08 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 15:30:08 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 15:30:09 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 15:30:09 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 15:30:09 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 15:30:09 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 15:30:21 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 15:30:21 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 15:30:21 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:manda user
+2026-02-25 15:30:21 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda user
+2026-02-25 15:30:22 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 15:30:22 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 15:30:22 [main] INFO  LoginPageTest - Logged out successfully
+2026-02-25 17:15:58 [main] INFO  Base - config.properties file loaded
+2026-02-25 17:16:01 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:16:07 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:16:12 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:16:12 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:16:12 [main] DEBUG Base - This is debug message
+2026-02-25 17:16:12 [main] WARN  Base - This is warning message
+2026-02-25 17:16:14 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:16:20 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:16:25 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:16:25 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:16:25 [main] DEBUG Base - This is debug message
+2026-02-25 17:16:25 [main] WARN  Base - This is warning message
+2026-02-25 17:16:25 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:16:25 [main] INFO  ActionDriver - Entered Test:Element with namee: username Aadmin2468
+2026-02-25 17:16:25 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:16:26 [main] INFO  ActionDriver - Entered Test:Element with namee: password 121212
+2026-02-25 17:16:26 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:16:26 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:16:34 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 17:16:34 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 17:16:35 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:16:41 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:16:46 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:16:46 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:16:46 [main] DEBUG Base - This is debug message
+2026-02-25 17:16:46 [main] WARN  Base - This is warning message
+2026-02-25 17:16:46 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:16:46 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 17:16:46 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:16:47 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 17:16:47 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:16:47 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:16:50 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 17:16:50 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 17:16:50 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Amyfdsg Zboncak
+2026-02-25 17:16:50 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Amyfdsg Zboncak
+2026-02-25 17:16:51 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 17:16:51 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 17:16:51 [main] INFO  LoginPageTest - Logged out successfully
+2026-02-25 17:16:54 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:17:00 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:17:05 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:17:05 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:17:05 [main] DEBUG Base - This is debug message
+2026-02-25 17:17:05 [main] WARN  Base - This is warning message
+2026-02-25 17:17:05 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:17:05 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 17:17:05 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:17:06 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 17:17:06 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:17:06 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:17:10 [main] WARN  ActionDriver - Failed to applied the border to an element  
+2026-02-25 17:17:10 [main] INFO  ActionDriver - Element is diplayed 
+2026-02-25 17:38:13 [main] INFO  Base - config.properties file loaded
+2026-02-25 17:38:18 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:38:25 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:38:30 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:38:30 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:38:30 [main] DEBUG Base - This is debug message
+2026-02-25 17:38:30 [main] WARN  Base - This is warning message
+2026-02-25 17:38:30 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:38:31 [main] INFO  ActionDriver - Entered Test:Element with namee: username Aadmin2468
+2026-02-25 17:38:31 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:38:31 [main] INFO  ActionDriver - Entered Test:Element with namee: password 121212
+2026-02-25 17:38:31 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:38:31 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:38:35 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 17:38:35 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 17:38:36 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:38:45 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:38:50 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:38:50 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:38:50 [main] DEBUG Base - This is debug message
+2026-02-25 17:38:50 [main] WARN  Base - This is warning message
+2026-02-25 17:38:50 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:38:50 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 17:38:51 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:38:51 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 17:38:51 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:38:51 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:38:59 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 17:38:59 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 17:39:00 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:manda Schiller
+2026-02-25 17:39:00 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda Schiller
+2026-02-25 17:39:00 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 17:39:00 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 17:39:00 [main] INFO  LoginPageTest - Logged out successfully
+2026-02-25 17:53:20 [main] INFO  Base - config.properties file loaded
+2026-02-25 17:53:22 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:53:27 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:53:32 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:53:32 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:53:32 [main] DEBUG Base - This is debug message
+2026-02-25 17:53:32 [main] WARN  Base - This is warning message
+2026-02-25 17:53:34 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:53:39 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:53:44 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:53:44 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:53:44 [main] DEBUG Base - This is debug message
+2026-02-25 17:53:44 [main] WARN  Base - This is warning message
+2026-02-25 17:53:45 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:53:45 [main] INFO  ActionDriver - Entered Test:Element with namee: username Aadmin2468
+2026-02-25 17:53:45 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:53:45 [main] INFO  ActionDriver - Entered Test:Element with namee: password 121212
+2026-02-25 17:53:45 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:53:45 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:53:47 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Invalid credentials
+2026-02-25 17:53:47 [main] INFO  ActionDriver - Text are matchingInvalid credentialsequalsInvalid credentials
+2026-02-25 17:53:48 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:53:54 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:53:59 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:53:59 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:53:59 [main] DEBUG Base - This is debug message
+2026-02-25 17:53:59 [main] WARN  Base - This is warning message
+2026-02-25 17:53:59 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:53:59 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 17:53:59 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:53:59 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 17:53:59 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:54:00 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:54:03 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Admin
+2026-02-25 17:54:03 [main] INFO  ActionDriver - Element is diplayedElement with text:Admin
+2026-02-25 17:54:03 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:manda Schiller
+2026-02-25 17:54:03 [main] INFO  ActionDriver - clicked an element->>>>Element with text:manda Schiller
+2026-02-25 17:54:03 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:About
+2026-02-25 17:54:04 [main] INFO  ActionDriver - clicked an element->>>>Element with text:About
+2026-02-25 17:54:04 [main] INFO  LoginPageTest - Logged out successfully
+2026-02-25 17:54:08 [main] INFO  Base - ChromeDriver Instance is created1
+2026-02-25 17:54:18 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:54:23 [main] INFO  Base - WebDriver initialized and browser maximized
+2026-02-25 17:54:23 [main] TRACE Base - This is trace MESSAGE
+2026-02-25 17:54:23 [main] DEBUG Base - This is debug message
+2026-02-25 17:54:23 [main] WARN  Base - This is warning message
+2026-02-25 17:54:23 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: username
+2026-02-25 17:54:23 [main] INFO  ActionDriver - Entered Test:Element with namee: username Admin
+2026-02-25 17:54:23 [main] WARN  ActionDriver - Failed to applied the border to an element Element with namee: password
+2026-02-25 17:54:23 [main] INFO  ActionDriver - Entered Test:Element with namee: password admin123
+2026-02-25 17:54:23 [main] WARN  ActionDriver - Failed to applied the border to an element Element with text:Login
+2026-02-25 17:54:24 [main] INFO  ActionDriver - clicked an element->>>>Element with text:Login
+2026-02-25 17:54:27 [main] WARN  ActionDriver - Failed to applied the border to an element  
+2026-02-25 17:54:27 [main] INFO  ActionDriver - Element is diplayed 

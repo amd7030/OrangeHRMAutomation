@@ -4,6 +4,8 @@ import com.orangehrm.actiondriver.ActionDriver;
 import com.orangehrm.base.Base;
 import com.orangehrm.pages.HomePage;
 import com.orangehrm.pages.LoginPage;
+import com.orangehrm.utilities.DataProviders;
+import com.orangehrm.utilities.ExtentManager;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -20,20 +22,32 @@ public class LoginPageTest extends Base {
 
 
 }
-    @Test
-    public void verifyVAlidLoginTest(){
-    loginpage.login("Admin","admin123");
-        Assert.assertTrue(homepage.IsAdminTabVisible(),"Admin should be visible after successfull login ");
-        homepage.Logout();
-        staticwait(2);
+    //TC_loginPage_001
 
-}
+    @Test(dataProvider = "validLoginData",
+    dataProviderClass =DataProviders.class)
+    /*@Test(dataProvider="validLoginData",
+            dataProviderClass=DataProviders.class)*/
+    public void verifyVAlidLoginTest(String username,String password){
+        //added ExtentManager line or 33
+        ExtentManager.getTest().info("Entering username and password");
+        loginpage.login(username,password);
+        Assert.assertTrue(homepage.IsAdminTabVisible(),"Admin should be visible after successfully login ");
+        homepage.Logout();
+        logger.info("Logged out successfully");
+        staticwait(2);
+        ExtentManager.getTest().pass("Login successful");
+
+    }
+    //TC_loginPage_002
+
     //Test to validate login with Invalid credentials
-    @Test
-    public void verifyInvlaidLoginTest(){
-        loginpage.login("amol","112121");
+    @Test(dataProvider = "inValidLoginData",
+            dataProviderClass =DataProviders.class)
+    public void verifyInvalidLoginTest(String username,String password){
+        loginpage.login(username,password);
         String ExpectedErrorMsg="Invalid credentials";
-        Assert.assertTrue(loginpage.verfyerrormessage(ExpectedErrorMsg),"Test FAiled: Invalid error message");
+        Assert.assertTrue(loginpage.verfyErrormessage(ExpectedErrorMsg),"Test FAiled: Invalid error message");
 
     }
 
