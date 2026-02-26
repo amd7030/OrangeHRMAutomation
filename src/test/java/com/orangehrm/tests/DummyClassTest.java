@@ -4,7 +4,7 @@ import com.orangehrm.base.Base;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class DummyClass extends Base
+public class DummyClasTest extends Base
 {
     //TC_001
     @Test
