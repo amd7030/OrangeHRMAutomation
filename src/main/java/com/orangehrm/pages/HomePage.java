@@ -21,12 +21,12 @@ public class HomePage {
     }
     //method to verify if admin tab is visible
     public boolean IsAdminTabVisible(){
-        return actionDriver.isDisplayedd(adminTab);
+        return actionDriver.isDisplayed(adminTab);
 
     }
     //method to verify log is displayed or not
     public boolean VerifyOrangehrmLogo(){
-        return  actionDriver.isDisplayedd(oranageHrmLogo);
+        return  actionDriver.isDisplayed(oranageHrmLogo);
 
     }
     //method to perform loout operation

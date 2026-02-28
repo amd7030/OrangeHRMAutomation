@@ -48,7 +48,7 @@ public class PIMModule {
     private final By successMessage =
             By.xpath("//div[contains(@class,'oxd-toast')]//p[contains(text(),'Success')]");
 
-    private final By personalDetailsHeader =
+    private By personalDetailsHeader =
             By.xpath("//h6[normalize-space()='Personal Details']");
 
 
@@ -95,7 +95,7 @@ public class PIMModule {
 
     public void selectStatusEnabled() {
         actionDriver.click(statusDropdown);
-        actionDriver.waitForElementVisible(statusEnabledOption);
+        actionDriver.waitUntilVisible(statusEnabledOption);
         actionDriver.click(statusEnabledOption);
     }
 
@@ -118,9 +118,16 @@ public class PIMModule {
 
     //modified after issue --password does not match
     public boolean isUserCreatedSuccessfully() {
-        By personalDetailsHeader = By.xpath("//h6[contains(text(),'Personal')]");
-        return actionDriver.isDisplayed(personalDetailsHeader);
-    }
 
+        By personalDetailsHeader =
+                By.xpath("//h6[normalize-space()='Personal Details']");
+
+        try {
+            actionDriver.waitUntilVisible(personalDetailsHeader);
+            return true;
+        } catch (Exception e) {
+            return false;
+        }
+    }
 
 }
