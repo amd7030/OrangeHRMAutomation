@@ -4,7 +4,7 @@ import com.orangehrm.actiondriver.ActionDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class AdminPage {
+public class AdminModule {
 
     private ActionDriver actionDriver;
 
