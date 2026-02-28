@@ -8,13 +8,11 @@ import java.util.Base64;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
-
 import com.aventstack.extentreports.MediaEntityBuilder;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
@@ -23,8 +21,8 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 public class ExtentManager {
 
     private static ExtentReports extent;
-    private static ThreadLocal<ExtentTest> test = new ThreadLocal<>();
-    private static Map<Long, WebDriver> driverMap = new HashMap<>();
+    private static final ThreadLocal<ExtentTest> test = new ThreadLocal<>();
+    private static final Map<Long, WebDriver> driverMap = new HashMap<>();
 
     // Initialize the Extent Report
     public synchronized static ExtentReports getReporter() {
@@ -169,7 +167,6 @@ public class ExtentManager {
                 extent.flush();
             }
         }
-
     // API test methods (Linked to existing Extent logic)
 
     public static void createTest(String name) {

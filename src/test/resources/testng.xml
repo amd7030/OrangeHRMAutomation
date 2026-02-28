@@ -2,11 +2,12 @@
 <suite name="orangeHrmSuite">
     <test name= "orangeHrmTest">
         <classes>
-            <class name="com.orangehrm.tests.DummyClass"> </class>
+            <class name="com.orangehrm.tests.DummyClassTest"> </class>
             <class name="com.orangehrm.tests.LoginPageTest"> </class>
             <class name="com.orangehrm.tests.HomePageTest"> </class>
             <class name="com.orangehrm.tests.ApiTest"> </class>
-
+            <class name="com.orangehrm.tests.PIMModuleTest"> </class>
+            <class name="com.orangehrm.tests.AdminModuleTest"> </class>
 
         </classes>
 

@@ -1,47 +1,67 @@
 package com.orangehrm.tests;
 
 import com.orangehrm.base.Base;
-import com.orangehrm.pages.AdminPage;
+import com.orangehrm.pages.AdminModule;
 import com.orangehrm.pages.LoginPage;
-import com.orangehrm.utilities.DataProviders;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class AdminPageTest extends Base {
+public class AdminModuleTest extends Base {
 
     private LoginPage loginPage;
-    private AdminPage adminPage;
+    private AdminModule adminPage;
 
     @BeforeMethod
     public void setupPages() {
         loginPage = new LoginPage(getDriver());
-        adminPage = new AdminPage(getDriver());
+        adminPage = new AdminModule(getDriver());
 
-        // Login before running Admin test
         loginPage.login("Admin", "admin123");
     }
 
-    @Test(dataProvider = "adminUserData", dataProviderClass = DataProviders.class)
-    public void testAddAdminUser(String empName, String baseUsername, String password) {
+    @Test
+    public void testEditAdminUserRole() {
 
         adminPage.clickAdminTab();
-        adminPage.clickAddButton();
 
-        adminPage.selectAdminRole();
-        adminPage.enterEmployeeName(empName);
-        adminPage.selectStatusEnabled();
+        adminPage.searchEmployee("Jay Amit Saha");
 
-        // Generate unique username
-        String uniqueUsername = baseUsername + System.currentTimeMillis();
-        adminPage.enterUsername(uniqueUsername);
+        adminPage.clickEditUser();
 
-        adminPage.enterPassword(password);
-        adminPage.enterConfirmPassword(password);
+        adminPage.changeUserRoleToESS();
 
         adminPage.clickSave();
 
-        Assert.assertTrue(adminPage.isUserCreatedSuccessfully(),
-                "User creation failed for: " + uniqueUsername);
+        Assert.assertTrue(adminPage.isUpdateSuccessful(),
+                "User role update failed!");
+
+        adminPage.logout();
     }
-}
+
+    //Test case-Add new job Title under admin->job
+    @Test
+    public void testAddNewJobTitle(){
+
+        adminPage.clickAdminTab();
+        adminPage.navigateToJobTitles();
+        adminPage.clickAddJobButton();
+
+        String uniqueJobTitle = "Hardware Engineer " + System.currentTimeMillis();
+
+        adminPage.enterJobTitle(uniqueJobTitle);
+        adminPage.enterJobDescription("Responsible person to solve Hardware Related queries");
+
+        adminPage.clickSave();
+
+        // Validation
+        Assert.assertTrue(adminPage.isUpdateSuccessful(),
+                "Job Title was not created successfully!");
+
+        System.out.println("Job Title created successfully: " + uniqueJobTitle);
+
+        adminPage.logout();
+    }
+
+    }
+

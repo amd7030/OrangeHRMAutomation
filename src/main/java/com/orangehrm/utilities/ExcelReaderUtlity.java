@@ -15,40 +15,48 @@ import static javax.management.openmbean.SimpleType.STRING;
 
 public class ExcelReaderUtlity {
 
-    public static List<String[]>getsheetData(String filepath,String sheetName){
-        //data variable is defined as ac list of array of string
-        List<String[]> data= new ArrayList<>();
 
-        //
-        try(FileInputStream fis=new FileInputStream(filepath); Workbook workbook=new XSSFWorkbook(fis)) {
+    public static List<String[]> getsheetData(String filePath, String sheetName) {
+
+        List<String[]> sheetData = new ArrayList<>();
+
+        try (FileInputStream fis = new FileInputStream(filePath);
+             Workbook workbook = WorkbookFactory.create(fis)) {
+
             Sheet sheet = workbook.getSheet(sheetName);
+
             if (sheet == null) {
-                throw new IllegalArgumentException("sheet" + sheetName + "Doesn't Exist");
-
+                throw new RuntimeException("Sheet not found: " + sheetName);
             }
-            //iterate through rows
+            //temp added to c
+            for (String[] row : sheetData) {
+                System.out.println("Columns: " + row.length);
+            }
             for (Row row : sheet) {
-                if (row.getRowNum() == 0) {
-                    continue;
-                }
-                //REad the excel file
-                List<String> rowData = new ArrayList<>();
-                for (Cell cell : row) {
-                    rowData.add(getCellValue(cell));
 
-                }
-                //convert Rowdataa to String
-                data.add(rowData.toArray(new String[0]));
+                int columnCount = row.getLastCellNum();
+                String[] rowData = new String[columnCount];
 
+                for (int i = 0; i < columnCount; i++) {
+                    Cell cell = row.getCell(i);
+
+                    if (cell == null) {
+                        rowData[i] = "";
+                    } else {
+                        rowData[i] = cell.toString().trim();
+                    }
+                }
+
+                sheetData.add(rowData);
             }
+
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-            catch(IOException e){
-                e.printStackTrace();
 
-            }
-        return data;
-
+        return sheetData;
     }
+
     private static String getCellValue(Cell cell) {
         if (cell == null) {
             return "";

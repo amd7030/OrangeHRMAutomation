@@ -5,12 +5,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 public class HomePage {
-    private ActionDriver actionDriver;
+    private final ActionDriver actionDriver;
     // define locator using BY class
-    private By adminTab = By.xpath("//span[text()='Admin']");
-    private By userIdButton = By.className("oxd-userdropdown-name");
-    private By logout = By.className("oxd-userdropdown-link");
-    private By oranageHrmLogo = By.xpath("//div[@class='oxd-brand-banner']//img");
+    private final By adminTab = By.xpath("//span[text()='Admin']");
+    private final By userIdButton = By.className("oxd-userdropdown-name");
+    private final By logout = By.className("oxd-userdropdown-link");
+    private final By oranageHrmLogo = By.xpath("//div[@class='oxd-brand-banner']//img");
 
 
 //initialize the action driver object by passing web driver instance

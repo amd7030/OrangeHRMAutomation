@@ -36,7 +36,7 @@ public  class Base {
 
     protected static Properties prop;
 
-    /*driver' is a WebDriver instance, the main interface for controlling
+    /*driver'is a WebDriver instance, the main interface for controlling
     the browser in Selenium automation. It allows you to open pages,
      interact with elements, and perform browser actions.*/
 
@@ -48,7 +48,7 @@ public  class Base {
     //public static ThreadLocal<ActionDriver>actionDriver =new ThreadLocal<>();
 
 
-    public static final Logger logger = (Logger) LoggerManager.getLogger(Base.class);
+    public static final Logger logger = LoggerManager.getLogger(Base.class);
 
     @BeforeSuite
 
@@ -216,7 +216,8 @@ public  class Base {
     //Driver setter method
 
     public void setDriver(WebDriver driver) {
-        this.driver = driver;
+
+        Base.driver = driver;
     }
 
     public void staticwait(int seconds) {

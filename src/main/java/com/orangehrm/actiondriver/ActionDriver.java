@@ -215,4 +215,25 @@ public class ActionDriver {
 
     }
 
+    public void waitForElementVisible(By locator) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+    }
+    public void waitForLoaderToDisappear() {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(
+                By.className("oxd-form-loader")));
+    }
+
+    public WebDriver getDriver() {
+        return this.driver;
+    }
+
+    public boolean isDisplayed(By locator) {
+        try {
+            return getDriver().findElement(locator).isDisplayed();
+        } catch (Exception e) {
+            return false;
+        }
+    }
 }

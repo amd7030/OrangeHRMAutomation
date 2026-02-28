@@ -43,12 +43,27 @@ public class LoginPageTest extends Base {
 
     //Test to validate login with Invalid credentials
     @Test(dataProvider = "inValidLoginData",
-            dataProviderClass =DataProviders.class)
-    public void verifyInvalidLoginTest(String username,String password){
-        loginpage.login(username,password);
-        String ExpectedErrorMsg="Invalid credentials";
-        Assert.assertTrue(loginpage.verfyErrormessage(ExpectedErrorMsg),"Test FAiled: Invalid error message");
+            dataProviderClass = DataProviders.class)
+    public void verifyInvalidLoginTest(String username, String password){
 
+        loginpage.login(username, password);
+
+        Assert.assertTrue(loginpage.isErrorMessageDisplayed(),
+                "Error message is not displayed");
+
+        String expectedErrorMsg = "Invalid credentials";
+        String actualErrorMsg = loginpage.getErrorMessage();
+
+        Assert.assertEquals(actualErrorMsg, expectedErrorMsg,
+                "Invalid login validation failed");
     }
 
-}
+      /*  loginpage.login(username,password);
+        String ExpectedErrorMsg="Invalid credentials";
+        Assert.assertTrue(loginpage.verfyErrormessage(ExpectedErrorMsg),"Test FAiled: Invalid error message");*/
+
+    }
+    //TC_loginpage_003
+
+
+
