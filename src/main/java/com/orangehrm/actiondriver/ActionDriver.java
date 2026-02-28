@@ -225,15 +225,21 @@ public class ActionDriver {
                 By.className("oxd-form-loader")));
     }
 
-    public WebDriver getDriver() {
+    public WebDriver getDriver() 
         return this.driver;
     }
 
+
+
     public boolean isDisplayed(By locator) {
         try {
-            return getDriver().findElement(locator).isDisplayed();
+            wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+            logger.info("Element is displayed: " + getElementDDescription(locator));
+            return true;
         } catch (Exception e) {
+            logger.error("Element not visible: " + e.getMessage());
             return false;
         }
     }
+
 }

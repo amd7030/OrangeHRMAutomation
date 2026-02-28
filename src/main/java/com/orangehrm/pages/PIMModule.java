@@ -118,7 +118,8 @@ public class PIMModule {
 
     //modified after issue --password does not match
     public boolean isUserCreatedSuccessfully() {
-        return actionDriver.isDisplayedd(personalDetailsHeader);
+        By personalDetailsHeader = By.xpath("//h6[contains(text(),'Personal')]");
+        return actionDriver.isDisplayed(personalDetailsHeader);
     }
 
 
