@@ -12,6 +12,9 @@ import io.restassured.response.Response;
 
 public class ApiTest extends BaseApiTest {
 
+    // Test Case ID: TC_API_001
+    // Title: Verify user details retrieval via GET request.
+    // Description: Validates the backend API endpoint for retrieving user information by ID.
     @Test
     public void verifyGetUserAPI() {
 

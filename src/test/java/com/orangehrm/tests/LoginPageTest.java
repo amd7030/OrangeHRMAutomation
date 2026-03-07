@@ -22,7 +22,8 @@ public class LoginPageTest extends Base {
 
 
 }
-    //TC_loginPage_001
+    // Title: Verify successful login with valid credentials.
+    //Description: Validates that a user can access the application using correct login data.
 
     @Test(dataProvider = "validLoginData",
     dataProviderClass =DataProviders.class)
@@ -39,9 +40,10 @@ public class LoginPageTest extends Base {
         ExtentManager.getTest().pass("Login successful");
 
     }
-    //TC_loginPage_002
+    // Test Case ID: TC_LoginPage_002
+    // Title: Verify login failure with invalid credentials.
+    //  Description: Ensures the system rejects unauthorized access and displays an appropriate error.
 
-    //Test to validate login with Invalid credentials
     @Test(dataProvider = "inValidLoginData",
             dataProviderClass = DataProviders.class)
     public void verifyInvalidLoginTest(String username, String password){

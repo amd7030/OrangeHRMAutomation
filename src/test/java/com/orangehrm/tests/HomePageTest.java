@@ -15,10 +15,11 @@ public class HomePageTest extends Base {
     public void setupPages(){
         loginpage=new LoginPage(getDriver());
         homepage=new HomePage(getDriver());
-
     }
-    //test case to verify company logo is present on the home page...
-    //TC_homepage_001
+    // Test Case ID: TC_HomePage_001
+    //  Title: Verify presence of OrangeHRM logo on the Dashboard.
+     //  Description: Checks UI integrity by verifying the brand logo loads correctly after authentication.
+
     @Test
     public void verifyOrangeHrmLogo(){
         loginpage.login("Admin","admin123");

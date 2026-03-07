@@ -20,6 +20,8 @@ public class AdminModuleTest extends Base {
         loginPage.login("Admin", "admin123");
     }
 
+    // Test Case ID: TC_AdminModule_001
+    // * Title: Verify Admin user can update an employee's User Role.
     @Test
     public void testEditAdminUserRole() {
 
@@ -39,8 +41,11 @@ public class AdminModuleTest extends Base {
         adminPage.logout();
     }
 
-    //Test case-Add new job Title under admin->job
-    @Test
+    //  Test Case ID: TC_AdminModule_002
+    // * Title: Verify Admin can create a new Job Title.
+    // Description: End-to-end validation of adding a new Job Title to the organization.
+
+        @Test
     public void testAddNewJobTitle(){
 
         adminPage.clickAdminTab();
